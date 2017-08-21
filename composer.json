@@ -1,5 +1,20 @@
 {
   "name": "onlyextart/colorbutton",
+  "version": "1.x-dev",
   "description": "Drupal 8. Plugin in the root libraries folder (/libraries).",
-  "type": "drupal-library"
+  "type": "drupal-library",
+  "main": "colorbutton/plugin.js",
+  "keywords": [
+    "colorbutton",
+    "CKEditor colorbutton",
+    "CKEditor"
+  ],
+  "author": "Yury Vasdiliyan <yuraextart@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onlyextart/colorbutton.git"
+  },
+
+  "license": "MIT",
+  "homepage": "https://github.com/onlyextart/colorbutton"
 }
